@@ -1,0 +1,3 @@
+# this is the second order two stage method
+# it is your choice as to what the parameter alpha is
+import numpy as np
